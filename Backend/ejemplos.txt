@@ -1,0 +1,16 @@
+{
+        "nombrePersona": "Uriel",
+        "apellidoPersona": "Badillo Garrido",
+        "correoPersona": "uriel@gmail.com",
+        "password": "4321"
+}
+
+{
+        "actividad": "Barrer",
+        "status": "Finalizada",
+        "fecha": "2022-10-22",
+        "horaInicio": "12:12:00",
+        "horaFin": "12:12:00",
+        "comentario": "Se tienen que barrer",
+        "idPersona": 1
+}
